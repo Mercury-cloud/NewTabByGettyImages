@@ -1,0 +1,96 @@
+{
+  "appName": {
+    "message": "New Tab by Getty Images",
+    "description": "The title of the application, displayed in the web store."
+  },
+
+  "appDesc": {
+    "message": "Google、ゲッティイメージズとiStockの素材検索を一つの場所で", 
+    "description":"The description of the application, displayed in the web store."
+  },
+
+  "search_google": {
+    "message": "Google検索",
+    "description": "Search box placeholder"
+  },
+
+  "search_getty": {
+    "message": "ゲッティイメージズを検索",
+    "description": "Search box placeholder"
+  },
+
+  "search_istock": {
+    "message": "iStockを検索",
+    "description": "Search box placeholder"
+  },
+
+  "view_similar_images": {
+    "message": "類似写真を表示する",
+    "description": "View similar getty link for backgound image"
+  },
+
+  "credit": {
+    "message": "クレジット: ",
+    "description": "Artist credit for background image"
+  },
+
+  "photoscom_list": {
+    "message": "Photos.comで壁紙用に購入",
+    "description": "Photos.com text for background image"
+  },
+
+  "options_title": {
+    "message": "オプション＆設定",
+    "description": "Option dialog title"
+  },
+
+  "options_show_search": {
+    "message": "検索ボックス",
+    "description": "Search box switch"
+  },
+
+  "options_show_clock": {
+    "message": "時計",
+    "description": "Clock switch"
+  },
+
+  "options_clock_style": {
+    "message": "時計のスタイル",
+    "description": "Clock style label"
+  },
+
+  "options_clock_style_default": {
+    "message": "デフォルト",
+    "description": "Default radio button"
+  },
+
+  "options_clock_style_12h": {
+    "message": "12時間時計",
+    "description": "12h radio button"
+  },
+
+  "options_clock_style_24h": {
+    "message": "24時間時計",
+    "description": "24h radio button"
+  },
+
+  "options_show_carousel": {
+    "message": "スライドギャラリー",
+    "description": "Carousel switch"
+  },
+  
+  "options_carousel_categories": {
+    "message": "デフォルトのスライドギャラリーカテゴリー",
+    "description": "Carousel drop down"
+  },
+
+  "options_save_button": {
+    "message": "保存して適用",
+    "description": "Save button"
+  },
+
+  "options_saved_msg": {
+    "message": "オプションが保存されました",
+    "description": "Option saved message"
+  }
+}

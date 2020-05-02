@@ -1,0 +1,95 @@
+{
+  "appName": {
+    "message": "New Tab by Getty Images",
+    "description": "The title of the application, displayed in the web store."
+  },
+
+  "appDesc": {
+    "message": "Ein atemberaubendes neues Foto auf jedem neu geöffneten Tab in Ihrem Chrome-Browser", 
+    "description":"The description of the application, displayed in the web store."
+  },
+  "search_google": {
+    "message": "Google durchsuchen",
+    "description": "Search box placeholder"
+  },
+
+  "search_getty": {
+    "message": "Getty Images durchsuchen",
+    "description": "Search box placeholder"
+  },
+
+  "search_istock": {
+    "message": "iStock durchsuchen",
+    "description": "Search box placeholder"
+  },
+
+  "view_similar_images": {
+    "message": "Ähnliche Bilder ansehen",
+    "description": "View similar getty link for backgound image"
+  },
+
+  "credit": {
+    "message": "Bildnachweis: ",
+    "description": "Artist credit for background image"
+  },
+
+  "photoscom_list": {
+    "message": "Dieses Bild für Ihre Wand auf Photos.com kaufen",
+    "description": "Buy this image for your wall at photos.com"
+  },
+
+  "options_title": {
+    "message": "Optionen und Einstellungen",
+    "description": "Option dialog title"
+  },
+
+  "options_show_search": {
+    "message": "Suchfeld",
+    "description": "Search box switch"
+  },
+
+  "options_show_clock": {
+    "message": "Uhr",
+    "description": "Clock switch"
+  },
+
+  "options_clock_style": {
+    "message": "Uhren-Einstellung",
+    "description": "Clock style label"
+  },
+
+  "options_clock_style_default": {
+    "message": "Standard",
+    "description": "Default radio button"
+  },
+
+  "options_clock_style_12h": {
+    "message": "12-Stunden-Zählung",
+    "description": "12h radio button"
+  },
+
+  "options_clock_style_24h": {
+    "message": "24-Stunden-Zählung",
+    "description": "24h radio button"
+  },
+
+  "options_show_carousel": {
+    "message": "Karussell",
+    "description": "Carousel switch"
+  },
+  
+  "options_carousel_categories": {
+    "message": "Voreingestellte Karussell-Kategorie",
+    "description": "Carousel drop down"
+  },
+
+  "options_save_button": {
+    "message": "SPEICHERN UND ANWENDEN",
+    "description": "Save button"
+  },
+
+  "options_saved_msg": {
+    "message": "Optionen gespeichert",
+    "description": "Option saved message"
+  }
+}

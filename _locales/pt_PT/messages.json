@@ -1,0 +1,96 @@
+{
+  "appName": {
+    "message": "Nova Tab by Getty Images",
+    "description": "The title of the application, displayed in the web store."
+  },
+
+  "appDesc": {
+    "message": "Uma foto nova e deslumbrante no seu browser Chrome, cada vez que abrir uma nova tab.", 
+    "description":"The description of the application, displayed in the web store."
+  },
+
+  "search_google": {
+    "message": "Pesquisar na Google",
+    "description": "Search box placeholder"
+  },
+
+  "search_getty": {
+    "message": "Pesquisar na Getty Images",
+    "description": "Search box placeholder"
+  },
+
+  "search_istock": {
+    "message": "Pesquisar na iStock",
+    "description": "Search box placeholder"
+  },
+
+  "view_similar_images": {
+    "message": "Ver imagens semelhantes",
+    "description": "View similar getty link for backgound image"
+  },
+
+  "credit": {
+    "message": "Crédito: ",
+    "description": "Artist credit for background image"
+  },
+
+  "photoscom_list": {
+    "message": "Compre esta imagem para a sua parede em Photos.com",
+    "description": "Photos.com text for background image"
+  },
+
+  "options_title": {
+    "message": "Opções e Configurações",
+    "description": "Option dialog title"
+  },
+
+  "options_show_search": {
+    "message": "Caixa de Pesquisa",
+    "description": "Search box switch"
+  },
+
+  "options_show_clock": {
+    "message": "Relógio",
+    "description": "Clock switch"
+  },
+
+  "options_clock_style": {
+    "message": "Estilo de relógio",
+    "description": "Clock style label"
+  },
+
+  "options_clock_style_default": {
+    "message": "Padrão",
+    "description": "Default radio button"
+  },
+
+  "options_clock_style_12h": {
+    "message": "Relógio de 12h",
+    "description": "12h radio button"
+  },
+
+  "options_clock_style_24h": {
+    "message": "Relógio de 24h",
+    "description": "24h radio button"
+  },
+
+  "options_show_carousel": {
+    "message": "Carrossel",
+    "description": "Carousel switch"
+  },
+  
+  "options_carousel_categories": {
+    "message": "Categoria de carrossel predefinida",
+    "description": "Carousel drop down"
+  },
+
+  "options_save_button": {
+    "message": "GUARDAR E APLICAR",
+    "description": "Save button"
+  },
+
+  "options_saved_msg": {
+    "message": "Opções guardadas",
+    "description": "Option saved message"
+  }
+}

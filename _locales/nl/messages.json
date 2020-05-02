@@ -1,0 +1,96 @@
+{
+  "appName": {
+    "message": "New Tab by Getty Images",
+    "description": "The title of the application, displayed in the web store."
+  },
+
+  "appDesc": {
+    "message": "Elke keer als u een nieuw tabblad opent, krijgt u een verrassende foto in uw Chrome-browser cadeau.", 
+    "description":"The description of the application, displayed in the web store."
+  },
+
+  "search_google": {
+    "message": "Zoek met Google",
+    "description": "Search box placeholder"
+  },
+
+  "search_getty": {
+    "message": "Zoek in Getty Images",
+    "description": "Search box placeholder"
+  },
+
+  "search_istock": {
+    "message": "Zoek in iStock",
+    "description": "Search box placeholder"
+  },
+
+  "view_similar_images": {
+    "message": "Gelijksoortige beelden bekijken",
+    "description": "View similar getty link for backgound image"
+  },
+
+  "credit": {
+    "message": "Credits: ",
+    "description": "Artist credit for background image"
+  },
+
+  "photoscom_list": {
+    "message": "Dit beeld kopen voor aan uw muur bij Photos.com",
+    "description": "Photos.com text for background image"
+  },
+
+  "options_title": {
+    "message": "Opties en instellingen",
+    "description": "Option dialog title"
+  },
+
+  "options_show_search": {
+    "message": "Zoekvak",
+    "description": "Search box switch"
+  },
+
+  "options_show_clock": {
+    "message": "Klok",
+    "description": "Clock switch"
+  },
+
+  "options_clock_style": {
+    "message": "Klokstijl",
+    "description": "Clock style label"
+  },
+
+  "options_clock_style_default": {
+    "message": "Standaard",
+    "description": "Default radio button"
+  },
+
+  "options_clock_style_12h": {
+    "message": "12-uurs klok",
+    "description": "12h radio button"
+  },
+
+  "options_clock_style_24h": {
+    "message": "24-uurs klok",
+    "description": "24h radio button"
+  },
+
+  "options_show_carousel": {
+    "message": "Carrousel",
+    "description": "Carousel switch"
+  },
+  
+  "options_carousel_categories": {
+    "message": "Standaardcarrouselcategorie",
+    "description": "Carousel drop down"
+  },
+
+  "options_save_button": {
+    "message": "OPSLAAN EN TOEPASSEN",
+    "description": "Save button"
+  },
+
+  "options_saved_msg": {
+    "message": "Opties opgeslagen",
+    "description": "Option saved message"
+  }
+}
